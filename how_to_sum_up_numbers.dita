@@ -20,9 +20,6 @@
             <step>
                 <cmd>Choose the equality (=) symbol.</cmd>
             </step>
-            <step>
-                <cmd/>
-            </step>
         </steps>
         <result id="result_tnj_l3t_2qb">The result of the numbers that were added together will be
             shown.</result>

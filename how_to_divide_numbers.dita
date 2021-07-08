@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_divide_numbers">
+    <title>How to Divide Numbers</title>
+    <shortdesc>Here you will find steps showing how to use the division feature on the JPS
+        calculator app</shortdesc>
+    <taskbody>
+        <prereq id="prereq_q4b_kl1_fqb">
+            <p>To successfully divide numbers, you must first understand the concept of
+                division.</p>
+        </prereq>
+        <steps id="steps_r4b_kl1_fqb">
+            <step>
+                <cmd>Enter a number.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the (/) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_s4b_kl1_fqb">The division result will be displayed.</result>
+        <example id="example_t4b_kl1_fqb">You want to divide the number 6 by 2. The equation will
+            appear as 6 / 2 = 3. Enter the number 6. Press the division symbol (/). Enter 2. Then,
+            press the equality symbol (=).The result will appear on the screen.</example>
+    </taskbody>
+</task>

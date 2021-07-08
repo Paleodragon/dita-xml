@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="how_to_multiply_numbers">
+    <title>How to Multiply Numbers</title>
+    <shortdesc>Here you will find steps showing how to use the multiply feature on the JPS
+        calculator app</shortdesc>
+    <taskbody>
+        <prereq id="prereq_m1w_vj1_fqb">
+            <p>To successfully multiply numbers, you must first understand the concept of
+                multiplication.</p>
+        </prereq>
+        <steps id="steps_n1w_vj1_fqb">
+            <step>
+                <cmd>Enter a number.</cmd>
+            </step>
+            <step>
+                <cmd>Click on the (*) button.</cmd>
+            </step>
+            <step>
+                <cmd>Enter a second number.</cmd>
+            </step>
+            <step>
+                <cmd>Choose the (=) button.</cmd>
+            </step>
+        </steps>
+        <result id="result_pks_1gt_2qb">The multiplication result will be displayed.</result>
+        <example id="example_kwn_2gt_2qb">You want to multiply 2 times 7. The equation will appear
+            as 2 * 7 = 14. Enter the number 2. Press the multiply symbol (*). Enter 7. Then, press
+            the equality symbol (=).The result will appear on the screen.</example>
+    </taskbody>
+</task>
