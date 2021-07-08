@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_addition">
+    <title>What is Addition?</title>
+    <shortdesc>Here we will learn the concept of addition.</shortdesc>
+    <conbody>
+        <p>Addition is the concept of adding one number to another.</p>
+        <p>The plus symbol (+) must be used in an addition equation.</p>
+    </conbody>
+</concept>
