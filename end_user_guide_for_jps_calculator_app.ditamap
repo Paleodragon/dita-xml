@@ -11,5 +11,7 @@
     <topichead navtitle="Multiply">
         <topicref href="how_to_multiply_numbers.dita"/>
     </topichead>
-    <topichead navtitle="Divide"/>
+    <topichead navtitle="Divide">
+        <topicref href="how_to_divide_numbers.dita"/>
+    </topichead>
 </map>
