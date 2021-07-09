@@ -3,15 +3,23 @@
 <map>
     <title>end-user-guide-for-jps-calculator-app</title>
     <topichead navtitle="Sum Up">
-        <topicref href="how_to_sum_up_numbers.dita"/>
+        <topicref href="how_to_sum_up_numbers.dita">
+            <topicref href="what_is_addition.dita"/>
+        </topicref>
     </topichead>
     <topichead navtitle="Subtract">
-        <topicref href="how_to_subtract_numbers.dita"/>
+        <topicref href="how_to_subtract_numbers.dita">
+            <topicref href="what_is_subtraction_of_numbers.dita"/>
+        </topicref>
     </topichead>
     <topichead navtitle="Multiply">
-        <topicref href="how_to_multiply_numbers.dita"/>
+        <topicref href="how_to_multiply_numbers.dita">
+            <topicref href="what_is_multiplication.dita"/>
+        </topicref>
     </topichead>
     <topichead navtitle="Divide">
-        <topicref href="how_to_divide_numbers.dita"/>
+        <topicref href="how_to_divide_numbers.dita">
+            <topicref href="what_is_division.dita"/>
+        </topicref>
     </topichead>
 </map>
