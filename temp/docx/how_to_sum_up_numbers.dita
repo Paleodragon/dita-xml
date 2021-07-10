@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /C:\Users\Rebecca\dita-xml\temp\docx?><?workdir-uri file:/C:/Users/Rebecca/dita-xml/temp/docx/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="how_to_sum_up_numbers" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="task:1;3:34" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="title:1;4:12">How to Sum Up Numbers</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="shortdesc:1;5:16">This list of steps will show you how to use the sum up feature in the JPS Calculator
+        app.</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="taskbody:1;7:15">
+        <prereq id="prereq_bq3_1jt_2qb" class="- topic/section task/prereq " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="prereq:1;8:41">To successfully sum up numbers you should understand the
+            concept of addition.</prereq>
+        <steps class="- topic/ol task/steps " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="cmd:1;12:22">Enter a number</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="cmd:2;15:22">Click on the plus (+) symbol.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="cmd:3;18:22">Enter a second number.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="step:4;20:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="cmd:4;21:22">Choose the equality (=) symbol.</cmd>
+            </step>
+        </steps>
+        <result id="result_tnj_l3t_2qb" class="- topic/section task/result " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="result:1;24:41">The result of the numbers that were added together will be
+            shown.</result>
+        <example id="example_kw4_q3t_2qb" class="- topic/example " xtrf="file:/C:/Users/Rebecca/dita-xml/how_to_sum_up_numbers.dita" xtrc="example:1;26:43">You want to sum up the numbers 3 and 5. The equation will
+            appear as 3 + 5 = 8. Enter the number 3. Then, press the plus (+) symbol. Enter the
+            number 5. Choose the equality (=) symbol. The result appears on the screen.</example>
+    </taskbody>
+</task>

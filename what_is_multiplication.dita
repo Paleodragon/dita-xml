@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="what_is_multiplication">
-    <title>What is Multiplication</title>
-    <shortdesc>Here we will learn about the concept of addition.</shortdesc>
+    <title>What is Multiplication?</title>
+    <shortdesc>Here we will learn about the concept of multiplication.</shortdesc>
     <conbody>
-        <p>Multiplication is the process of adding multiple groups of equal amounts together.</p>
+        <p>Multiplication is the process of adding multiple groups together in equal portions.</p>
         <p>To multiply, the * symbol must be used.</p>
     </conbody>
 </concept>
